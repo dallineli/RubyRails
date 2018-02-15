@@ -56,3 +56,4 @@ gem 'bootstrap', '~> 4.0.0'
 gem 'jquery-rails'
 
 gem 'eliason_view_tool', git: 'https://github.com/dallineli/eliason_view_tool' 
+gem 'petergate', '~> 1.8', '>= 1.8.1'
